@@ -1,1 +1,14 @@
 Fill in the passphrases here.
+Passcode1: greenEggsAndHam
+Passcode2: iHateCplusplus
+Passcode3: HTMLRocks
+Passcode4: JavaScriptRulees
+Passcode5: SvelteBeatsReact
+
+Passcode7: YouFoundMe
+Passcode8: coolcoolcool
+Passcode9: 2020Sucked
+Passcode10: listenToTheBlackKeys
+Passcode11: a11yComesFirst
+Passcode12: iLoveWebDev
+Passcode13: 404
