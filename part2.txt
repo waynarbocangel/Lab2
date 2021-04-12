@@ -4,7 +4,7 @@ Passcode2: iHateCplusplus
 Passcode3: HTMLRocks
 Passcode4: JavaScriptRulees
 Passcode5: SvelteBeatsReact
-
+Passcode6: ThisIsJS
 Passcode7: YouFoundMe
 Passcode8: coolcoolcool
 Passcode9: 2020Sucked
